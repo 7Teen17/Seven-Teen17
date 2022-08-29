@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Seven-Teen17
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning subjects
-- 💞️ I’m looking to collaborate on nothing. I work alone
-- 📫 How to reach me dont.
+- 👀 I’m interested in Python programming with various frameworks.
+- 🌱 I’m currently learning discord.py.
 
 <!---
 Seven-Teen17/Seven-Teen17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
